@@ -1,20 +1,17 @@
-title:            Balzac
+title:            SOMCA
 tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: http://jekyll.gtat.me
+description:      Self-Optimization of service-oriented architectures for Mobile and Cloud Applications.
+canonical:        http://somca.github.io
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Romain Rouvoy
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  bio:            "Professor"
+  email:          romain.rouvoy@inria.fr
+  twitter:        rouvoy
+  github:         rouvoy
+  location:       "Lille, FR"
   # Plug in your disqus shortname!
 
 tools:
@@ -31,14 +28,14 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    url: https://github.com/SOMCA/somca.github.io
     external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+  - title: SOMCA
+    url: http://somca.github.io
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Paris
 future:      true
 highlighter: pygments
 markdown:    kramdown
