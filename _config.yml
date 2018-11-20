@@ -1,5 +1,5 @@
 title:            SOMCA
-tagline:          A beautiful theme.
+tagline:          Inria associate team.
 description:      Self-Optimization of service-oriented architectures for Mobile and Cloud Applications.
 canonical:        http://somca.github.io
 
@@ -27,11 +27,19 @@ opengraph:
 links:
   - title: About
     url: /about
-  - title: Github
-    url: https://github.com/SOMCA/somca.github.io
+  - title: Members
+    url: /members
+  - title: Software
+    url: http://github.com/SOMCA
     external: true
-  - title: SOMCA
-    url: http://somca.github.io
+  - title: Publications
+    url: https://haltools.inria.fr/Public/afficheRequetePubli.php?collaboration=SOMCA&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css
+    external: true
+  - title: Inria
+    url: http://www.inria.fr
+    external: true
+  - title: Spirals
+    url: http://team.inria.fr/spirals
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
